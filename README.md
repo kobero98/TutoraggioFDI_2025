@@ -44,9 +44,9 @@ Il contenuto di questa repo è pensato per:
 ## Come Utilizzare il Materiale
 
 1. Clona la repository:
-   ```bash
+```bash
 git clone https://github.com/kobero98/TutoraggioFDI_2025
-   ```
+```
 Spostati nella cartella del canale o del giorno desiderato:
 ```bash
 cd tutoraggio_canale1/lezione_DD_MM_YYYY/
