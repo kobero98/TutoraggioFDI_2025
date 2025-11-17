@@ -7,14 +7,13 @@ Gli esempi e le soluzioni sono stati sviluppati in **Python** 2.7 e **Jython**, 
 
 La repository è suddivisa in più *canali*, ognuno associato a un diverso tutor o percorso. Ogni canale contiene il materiale mostrato durante le rispettive sessioni.
 
-.
+.  
 ├── tutoraggio_canale1/  
 │ ├── <data_lezione_1>/  
 │ ├── <data_lezione_2>/  
 │ ├── <data_lezione_3>/  
 │ └── ...  
 └── tutoraggio_canale2/  
-└── ...  
 
 
 ### ▶ Canale 1
@@ -47,18 +46,19 @@ Il contenuto di questa repo è pensato per:
 1. Clona la repository:
    ```bash
    git clone https://github.com/kobero98/TutoraggioFDI_2025
-
-    Spostati nella cartella del canale o del giorno desiderato:
-
+   ```
+Spostati nella cartella del canale o del giorno desiderato:
+```bash
 cd tutoraggio_canale1/lezione_DD_MM_YYYY/
-
+```
 
 Esegui gli script Python:
-
+```bash
     python nome_file.py
-    oppure utilizzare python tutor: https://pythontutor.com/
-    oppure utilizzare un ambiente JES
-    
+```
+oppure utilizzare python tutor: https://pythontutor.com/
+oppure utilizzare un ambiente JES
+ 
 
 Contributi
 
